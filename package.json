@@ -1,0 +1,23 @@
+{
+  "name": "miscellaneous_blogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryo-cool/miscellaneous_blogs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryo-cool/miscellaneous_blogs/issues"
+  },
+  "homepage": "https://github.com/Ryo-cool/miscellaneous_blogs#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.91"
+  }
+}
