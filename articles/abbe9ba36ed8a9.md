@@ -3,7 +3,7 @@ title: "「CAREER SKILLS」を読んで（第１・２部）"
 emoji: "🙆"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: []
-published: false
+published: true
 ---
 
 [CAREER SKILLS　ソフトウェア開発者の完全キャリアガイド](https://www.amazon.co.jp/dp/B07FCYSNXT/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) という本を読みました。技術書というよりは「エンジニアのキャリアはどうやって歩んでゆけばいいの？」に答えてくれる本。これからプログラミングを学びたい人から、実際にエンジニアとして働いている人まで守備範囲が広い本となっております。１部と２部を読み終えたので、個人的にメモしようと思う。
